@@ -1,0 +1,6 @@
+{
+  "name": "BIAB Professional Nails",
+  "description": "Premium HEMA-free builder-in-a-bottle gel formulations, starter kits, and zero-friction self-leveling manicures guided by European style experts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
